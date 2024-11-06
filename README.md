@@ -6,7 +6,6 @@
   housing data. Using regression models, we analyze the impact of each feature on the final sale price, 
   which helps in identifying key factors influencing property prices across different locations.
 
-
   **Goal:**
   
    To build a robust regression model that accurately predicts house prices, enabling real estate 
